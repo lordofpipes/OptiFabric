@@ -1,7 +1,0 @@
-{
-	"parent": "optifabric.mixins.json",
-	"package": "me.modmuss50.optifabric.compat.voxelmap.mixin",
-	"mixins": [
-		"CustomColorsMixin"
-	]
-}
